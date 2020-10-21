@@ -14,5 +14,5 @@ function subtract(string)   {
     return -+(string)
 }
 function multiply(string)   {
-    return 
+    return
 }

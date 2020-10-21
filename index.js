@@ -7,5 +7,5 @@ function preserveDecimal(string)  {
     return parseFloat(string)
 }
 function add(a, b)  {
-    return +=(argument1, argument2)
+    return a + b
 }
